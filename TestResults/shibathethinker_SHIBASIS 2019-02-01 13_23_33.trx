@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ea5e6287-730c-480d-be6f-e9d98b8469b7" name="shibathethinker@SHIBASIS 2019-02-01 13:23:33" runUser="SHIBASIS\shibathethinker" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="b2911e99-cd20-407d-b0ac-3703ca589d90">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="shibathethinker_SHIBASIS 2019-02-01 13_23_33">
+      <DeploymentItem filename="C:\Users\shibathethinker\Documents\GitHub\Csharp_Projects\NASA_Rover\Rover_Project\bin\Debug\Rover_Project.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2019-02-01T13:23:33.8570773+11:00" queuing="2019-02-01T13:23:33.9210403+11:00" start="2019-02-01T13:23:33.9290357+11:00" finish="2019-02-01T13:23:34.2578476+11:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod3" storage="c:\users\shibathethinker\documents\github\csharp_projects\nasa_rover\rover_project\testproject1\bin\debug\testproject1.dll" id="22a2fac6-1c6c-c526-e7b0-1c4a8023046b">
+      <Execution id="144b7369-33ad-4561-9103-f56c8ae79df0" />
+      <TestMethod codeBase="C:/Users/shibathethinker/Documents/GitHub/Csharp_Projects/NASA_Rover/Rover_Project/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTestRover, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod3" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="c:\users\shibathethinker\documents\github\csharp_projects\nasa_rover\rover_project\testproject1\bin\debug\testproject1.dll" id="ad616acd-2838-3dbd-c1c0-4bd9e5b4b309">
+      <Execution id="f0a62735-2420-430d-a320-758d4c7d0345" />
+      <TestMethod codeBase="C:/Users/shibathethinker/Documents/GitHub/Csharp_Projects/NASA_Rover/Rover_Project/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTestRover, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="TestMethod2" storage="c:\users\shibathethinker\documents\github\csharp_projects\nasa_rover\rover_project\testproject1\bin\debug\testproject1.dll" id="434daec2-f146-0c86-1919-a9a24af40d21">
+      <Execution id="6102518a-7194-41e7-b866-fd54dbcaf0a9" />
+      <TestMethod codeBase="C:/Users/shibathethinker/Documents/GitHub/Csharp_Projects/NASA_Rover/Rover_Project/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTestRover, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="22a2fac6-1c6c-c526-e7b0-1c4a8023046b" executionId="144b7369-33ad-4561-9103-f56c8ae79df0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="434daec2-f146-0c86-1919-a9a24af40d21" executionId="6102518a-7194-41e7-b866-fd54dbcaf0a9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ad616acd-2838-3dbd-c1c0-4bd9e5b4b309" executionId="f0a62735-2420-430d-a320-758d4c7d0345" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="144b7369-33ad-4561-9103-f56c8ae79df0" testId="22a2fac6-1c6c-c526-e7b0-1c4a8023046b" testName="TestMethod3" computerName="SHIBASIS" duration="00:00:00.0154212" startTime="2019-02-01T13:23:33.9390306+11:00" endTime="2019-02-01T13:23:34.2228867+11:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="144b7369-33ad-4561-9103-f56c8ae79df0">
+    </UnitTestResult>
+    <UnitTestResult executionId="6102518a-7194-41e7-b866-fd54dbcaf0a9" testId="434daec2-f146-0c86-1919-a9a24af40d21" testName="TestMethod2" computerName="SHIBASIS" duration="00:00:00.0002317" startTime="2019-02-01T13:23:34.2288839+11:00" endTime="2019-02-01T13:23:34.2318773+11:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6102518a-7194-41e7-b866-fd54dbcaf0a9">
+    </UnitTestResult>
+    <UnitTestResult executionId="f0a62735-2420-430d-a320-758d4c7d0345" testId="ad616acd-2838-3dbd-c1c0-4bd9e5b4b309" testName="TestMethod1" computerName="SHIBASIS" duration="00:00:00.0002131" startTime="2019-02-01T13:23:34.2378595+11:00" endTime="2019-02-01T13:23:34.2398727+11:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f0a62735-2420-430d-a320-758d4c7d0345">
+    </UnitTestResult>
+  </Results>
+</TestRun>

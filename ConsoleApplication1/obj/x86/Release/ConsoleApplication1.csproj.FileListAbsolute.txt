@@ -1,0 +1,7 @@
+C:\Users\shibathethinker\Documents\GitHub\Csharp_Projects\NASA_Rover\Rover_Project\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\shibathethinker\Documents\GitHub\Csharp_Projects\NASA_Rover\Rover_Project\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\shibathethinker\Documents\GitHub\Csharp_Projects\NASA_Rover\Rover_Project\ConsoleApplication1\bin\Release\Rover_Project.exe
+C:\Users\shibathethinker\Documents\GitHub\Csharp_Projects\NASA_Rover\Rover_Project\ConsoleApplication1\bin\Release\Rover_Project.pdb
+C:\Users\shibathethinker\Documents\GitHub\Csharp_Projects\NASA_Rover\Rover_Project\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\shibathethinker\Documents\GitHub\Csharp_Projects\NASA_Rover\Rover_Project\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+C:\Users\shibathethinker\Documents\GitHub\Csharp_Projects\NASA_Rover\Rover_Project\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
