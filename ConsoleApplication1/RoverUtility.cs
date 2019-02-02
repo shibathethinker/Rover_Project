@@ -34,7 +34,7 @@ namespace RoverUtilityPackage
                 try
                 {
                     StringBuilder returnVal = RoverFactoryUser.simulateMovementAndReturnFinal(boundaryString, initialize(initialPosition, commandString));
-                    Console.WriteLine("Rover's fnal position>>>" + returnVal.ToString());
+                    Console.WriteLine("Rover's fInal position>>>" + returnVal.ToString());
                 }
                 catch (ArgumentException ex)
                 {
